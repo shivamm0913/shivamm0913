@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Kewat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm0913&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm0913" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamm0913" alt="shivamm0913" /></a> </p>
 
-- 🔭 I’m currently working on **React projects**
+- 🔭 I’m currently working on **Mern projects**
 
 - 🌱 I’m currently learning **Backend**
 
