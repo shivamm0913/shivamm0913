@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 📫 How to reach me **shivamkewat0209@gmail.com**
+- 📫 How to reach me **shivamkewat0209@gmail.com** or shoot me a dm on X(twitter).👇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
