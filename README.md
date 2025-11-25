@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm0913&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm0913" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamm0913" alt="shivamm0913" /></a> </p>
 
 - 🔭 I’m currently working on **Mern projects**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 deep diving into **Backend**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
