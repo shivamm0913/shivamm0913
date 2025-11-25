@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm0913&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm0913" /> </p>
 
 
-- 🔭 I’m currently working on **Mern projects**
+- I’m currently working on **Mern projects**
 
-- 🌱 deep diving into **Backend**
+-  deep diving into **Backend**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+-  I’m looking to collaborate on **full stack projects**
 
-- 📫 How to reach me **shivamkewat0209@gmail.com** or shoot me a dm on X(twitter).👇
+-  How to reach me **shivamkewat0209@gmail.com** or shoot me a dm on X(twitter).👇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm0913&show_icons=true&locale=en&layout=compact" alt="shivamm0913" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamm0913&show_icons=true&locale=en" alt="shivamm0913" /></p>
