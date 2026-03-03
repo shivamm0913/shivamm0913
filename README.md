@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm0913&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm0913" /> </p>
 
 
-- I’m currently working on **Mern projects**
-
--  deep diving into **Backend**
+- currently deep diving into **Backend**
 
 -  I’m looking to collaborate on **full stack projects**
 
