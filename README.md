@@ -8,11 +8,11 @@
 
 -  I’m looking to collaborate on **full stack projects**
 
--  How to reach me **shivamkewat0209@gmail.com** or shoot me a dm on X(twitter).👇
+-  How to reach me **shivamkewat0209@gmail.com** 👇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivamkewa51247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamkewa51247" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/shivam-kewat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-kewat" height="30" width="40" /></a>
 </p>
 
